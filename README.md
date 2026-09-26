@@ -14,7 +14,7 @@
 
 ### 1. استنساخ المشروع
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/deepai-telegram-bot.git
+git clone https://github.com/Ma6awan/deepai-telegram-bot.git
 cd deepai-telegram-bot
 \`\`\`
 
